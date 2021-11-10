@@ -1,0 +1,22 @@
+.country-information{
+    display: flex;
+    background: gray;
+    justify-content: center;
+    border: 2px solid black;
+    margin: 2px;
+    
+
+}
+.information-part{
+    background: green;
+    width: 40%;
+    color: aliceblue;
+    height: auto;
+}
+.flag-part{
+    width:40%;
+}
+.flag-part img{
+    width: 100%;
+    height: 50vh;
+}
